@@ -28,7 +28,7 @@ My research interests focus on graph learning, recommender system. In addition, 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2025(SCI I, IF=15.5)</div><img src='../images/AdaptGCN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2025(SCI I, IF=15.5)</div><img src='../images/AdaptGCN_v2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Rethinking information fusion: Achieving adaptive information throughput and interaction pattern in graph convolutional networks for collaborative filtering](https://www.sciencedirect.com/science/article/pii/S156625352500123X)
