@@ -28,13 +28,12 @@ My research interests focus on graph learning, recommender system. In addition, 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2025</div><img src='images/AdaptGCN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2025(SCI I, IF=15.5)</div><img src='images/AdaptGCN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Rethinking information fusion: Achieving adaptive information throughput and interaction pattern in graph convolutional networks for collaborative filtering](https://www.sciencedirect.com/science/article/pii/S156625352500123X)
 
 Jiaxin Wu, **Chenglong Pang**, Guangxiong Chen, Jihong Wan, Xiaocao Ouyang, Jie Zhao*
-Information Fusion 2025 (SCI I, IF=15.5) .
 *Corresponding Author
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
