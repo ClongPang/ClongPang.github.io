@@ -24,11 +24,11 @@ My research interests focus on graph learning, recommender system. In addition, 
 (2) Behavior-based user personality simulation generation.
 
 # 🔥 News
-- *2025.02.24*: &nbsp;🎉🎉 A paper about graph convolutional network recommendation model was accepted by Information Fusion(IF=15.5)!
+- *2025.02.24*: &nbsp;🎉 A paper about graph convolutional network recommendation model was accepted by Information Fusion(IF=15.5)!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2025(SCI I, IF=15.5)</div><img src='images/AdaptGCN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2025(SCI I, IF=15.5)</div><img src='../images/AdaptGCN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Rethinking information fusion: Achieving adaptive information throughput and interaction pattern in graph convolutional networks for collaborative filtering](https://www.sciencedirect.com/science/article/pii/S156625352500123X)
