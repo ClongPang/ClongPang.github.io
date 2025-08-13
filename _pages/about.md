@@ -19,8 +19,9 @@ redirect_from:
 
 Hello, I am Chenglong Pang. I am a currently master's student at the School of Computer Science and Technology, Donghua University. Interestingly, I have an interdisciplinary background.  I completed my undergraduate studies in Big Data Management and Application at the School of Management, Guangdong University of Technology.
 
-My research interests focus on graph learning, recommender system. In addition, I am also interested in board application of AI models. Recently, I have been concentrating on the application of AI models in recommendation systems:
-(1) Utilize AI to understand user intentions in recommendation scenarios;
+My research interests focus on graph learning, recommender system. Recently, I have been concentrating on the application of AI models in recommendation systems:
+(1) Utilize AI to understand user intentions in recommendation scenarios;  
+
 (2) Behavior-based user personality simulation generation.
 
 # 🔥 News
