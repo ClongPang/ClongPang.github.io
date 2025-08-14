@@ -45,7 +45,7 @@ Jiaxin Wu, **Chenglong Pang**, Guangxiong Chen, Jihong Wan, Xiaocao Ouyang, Jie 
 - *2024.07* The undergraduate graduation thesis won the Excellent Innovation Award. 
 
 # 📖 Educations
-- *2024.09 -   now  *, School of Computer Science and Technology, Donghua University, Shanghai, China.
+- *2024.09 - 2025.08(now)*, School of Computer Science and Technology, Donghua University, Shanghai, China.
   - Major: Computer Science and Technology
   - Degree: Master
 - *2020.09 - 2024.07*, School of Management, Guangdong University of Technology, Guangzhou, China.
