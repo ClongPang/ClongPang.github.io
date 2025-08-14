@@ -45,13 +45,15 @@ Jiaxin Wu, **Chenglong Pang**, Guangxiong Chen, Jihong Wan, Xiaocao Ouyang, Jie 
 - *2024.07* The undergraduate graduation thesis won the Excellent Innovation Award. 
 
 # 📖 Educations
-- *2024.09 -   now  *, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 -   now  *, School of Computer Science and Technology, Donghua University, Shanghai, China.
+  - Major: Computer Science and Technology
+  - Degree: Master
 - *2020.09 - 2024.07*, School of Management, Guangdong University of Technology, Guangzhou, China.
-  - Major: Big Data Management and Application  
+  - Major: Big Data Management and Application
+  - Degree: Bachelor
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- pass
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- pass
