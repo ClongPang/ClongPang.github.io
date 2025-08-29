@@ -24,6 +24,7 @@ My research interests focus on graph learning, recommender system. Recently, I h
 (2) Behavior-based user personality simulation generation.
 
 # 🔥 News
+- *2025.08.17*: &nbsp;🎉 A paper about graph convolutional network recommendation model was accepted by Neural Networks(CCF-B)!
 - *2025.02.24*: &nbsp;🎉 A paper about graph convolutional network recommendation model was accepted by Information Fusion(IF=15.5)!
 
 # 📝 Publications 
@@ -33,11 +34,22 @@ My research interests focus on graph learning, recommender system. Recently, I h
 
 [Rethinking information fusion: Achieving adaptive information throughput and interaction pattern in graph convolutional networks for collaborative filtering](https://www.sciencedirect.com/science/article/pii/S156625352500123X)
 
-Jiaxin Wu, **Chenglong Pang**, Guangxiong Chen, Jihong Wan, Xiaocao Ouyang, Jie Zhao*
-*Corresponding Author
+Jiaxin Wu, **Chenglong Pang**, Guangxiong Chen, Jihong Wan, Xiaocao Ouyang, Jie Zhao(Corresponding Author)
 
 [**Project**](https://www.sciencedirect.com/science/article/pii/S156625352500123X) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Accepted by Information Fusion 2025(**IF=15.5 中科院一区Top**). 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2025(IF=6.3, CCF-B)</div><img src='../images/P&CGCN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ Beyond Single Perspective Bias: Fusing Personalized and Common Preferences for Comprehensive Personal Preference Learning](https://www.sciencedirect.com/science/article/pii/S0893608025009086)
+
+Jiaxin Wu, Guangxiong Chen, **Chenglong Pang**, Eric W.K. See-To, Jie Zhao(Corresponding Author)
+
+[**Project**](https://www.sciencedirect.com/science/article/pii/S0893608025009086) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Accepted by Neural Networks 2025(**IF=6.3 CCF-B**). 
 </div>
 </div>
 
@@ -57,5 +69,8 @@ Jiaxin Wu, **Chenglong Pang**, Guangxiong Chen, Jihong Wan, Xiaocao Ouyang, Jie 
 
 # 💻 Internships
 - **National Natural Science Foundation of China (72271063)**：Research on the Experience Quality Calculation and Reciprocal Recommendation Mechanism of C2C Interactive Service
-  - Guangdong University of Technology. Guangzhou, China. Research Manager 2023 to Present
+  - Guangdong University of Technology. Guangzhou, China. Research Manager 2023 to Present.
+  - Advisors: [Prof. Jie Zhao](https://glxy.gdut.edu.cn/info/1292/28935.htm)
+- **National Natural Science Foundation of China (71871069)**：Research on Bidirectional Trust Calculation and Matching Mechanism of Online Short-Term Rental Platform
+  - Guangdong University of Technology. Guangzhou, China. Research Manager 2022 to 2023.
   - Advisors: [Prof. Jie Zhao](https://glxy.gdut.edu.cn/info/1292/28935.htm)
