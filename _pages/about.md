@@ -29,7 +29,7 @@ My research interests focus on graph learning, recommender system. Recently, I h
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2025(SCI I, IF=15.5)</div><img src='../images/AdaptGCN_v2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2025</div><img src='../images/AdaptGCN_v2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Rethinking information fusion: Achieving adaptive information throughput and interaction pattern in graph convolutional networks for collaborative filtering](https://www.sciencedirect.com/science/article/pii/S156625352500123X)
@@ -41,7 +41,7 @@ Jiaxin Wu, **Chenglong Pang**, Guangxiong Chen, Jihong Wan, Xiaocao Ouyang, Jie 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2025(IF=6.3, CCF-B)</div><img src='../images/P&CGCN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2025</div><img src='../images/P&CGCN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ Beyond Single Perspective Bias: Fusing Personalized and Common Preferences for Comprehensive Personal Preference Learning](https://www.sciencedirect.com/science/article/pii/S0893608025009086)
