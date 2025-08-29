@@ -53,7 +53,9 @@ Jiaxin Wu, **Chenglong Pang**, Guangxiong Chen, Jihong Wan, Xiaocao Ouyang, Jie 
   - Degree: Bachelor
 
 # 💬 Invited Talks
-- pass
+- **July 2024**: Participated the 2024 China Conference on Granular Computing and Discovery in Jiangsu, China.
 
 # 💻 Internships
-- pass
+- **National Natural Science Foundation of China (72271063)**：Research on the Experience Quality Calculation and Reciprocal Recommendation Mechanism of C2C Interactive Service
+  - Guangdong University of Technology. Guangzhou, China. Research Manager 2023 to Present
+  - Advisors: [Prof. Jie Zhao](https://glxy.gdut.edu.cn/info/1292/28935.htm)
